@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.packtpublishing.tddjava.ch03tictactoe.TicTacToeSpec" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-12-09T15:02:14" hostname="lbyComputer" time="0.016">
+  <properties/>
+  <testcase name="whenYOutsideBoardThenRuntimeException" classname="com.packtpublishing.tddjava.ch03tictactoe.TicTacToeSpec" time="0.014"/>
+  <testcase name="whenXOutsideBoardThenRuntimeException" classname="com.packtpublishing.tddjava.ch03tictactoe.TicTacToeSpec" time="0.0"/>
+  <testcase name="whenOccupiedThenRuntimeException" classname="com.packtpublishing.tddjava.ch03tictactoe.TicTacToeSpec" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
